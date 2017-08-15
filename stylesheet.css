@@ -1,0 +1,84 @@
+.box {
+  border-bottom-color:gray;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  text-decoration: none;
+}
+.title {
+  text-decoration: none;
+  color:black;
+  font-weight: bold;
+}
+
+.author {
+  text-decoration: none;
+  color:blue;
+  font-weight: bold;
+}
+
+.date1 {
+  text-decoration: none;
+  color:gray;
+}
+
+.date2 {
+  text-decoration: none;
+  color:gray;
+}
+
+.title1 {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.aside_text {
+  text-decoration: none;
+  color: black;
+  width: 960px;
+  margin: 50px auto 24px;
+  background-color: lightgray;
+  text-align: center;
+  padding: 15px
+}
+
+
+.title1{
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+
+.advertising {
+  background-color: lightgray;
+  display: block;
+  margin: 5px auto 10px;
+  margin-top: 5px;
+  margin-right: auto;
+  margin-bottom: 10px;
+  margin-left: auto;
+}
+}
+.footer1 {
+  width: 100%
+  background-color: lightgray;
+  text-align: center;
+}
+
+.paragraph_class {
+  text-decoration-color: black;
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+.sponsor_title {
+  color: red;
+}
+
+.website {
+  text-decoration: none;
+  color: blue;
+}
+.column_holder{
+  max-width: 76%
+}
